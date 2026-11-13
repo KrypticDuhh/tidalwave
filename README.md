@@ -63,7 +63,7 @@ This table indicates firmware versions for which the *current version* of this r
 ## Deployment & Hosting
 
 ### Option 1: Access via Remote Host
-Open the PS4 web browser and navigate directly http://TidalWave.arabpixel.net/
+Open the PS4 web browser and navigate directly http://WebKitty.arabpixel.net/
 > In case the above link can not be resolved or similarly, you may want to attempt to use the following mirror of TidalWave: arabpixel.gitlab.io/TidalWave
 
 ### Option 2: Local Hosting (PC / PS4 Server)
